@@ -1,7 +1,7 @@
 # Big-data-Artificial-intelligence
 빅데이터·인공지능 창의융합 인재양성 프로그램 - 기술인재 1기 활동 (2020년6월~12월/80시간)
 
-### 01.데이터 과학
+### 01.데이터 과학(Data science)
 ##### 실습활동 대신 퀴즈풀기로 활동을 대하여, 실습자료 없음
 * 01 데이터 정의
 * 02 데이터 과학이란
@@ -12,7 +12,7 @@
 * 07 빅데이터
 * 08 인공지능/머신러닝/딥러닝
 
-### 02.파이썬 프로그래밍
+### 02.파이썬 프로그래밍(Python Programming)
 * 01 Google Colab, Jupyter Notebook, Markdown 사용법
 * 02 파이썬 프로그래밍 언어
 * 03 변수, 자료형, 연산자
@@ -24,7 +24,7 @@
 * 09 객체와 클래스
 * 10 모듈과 패키지
 
-### 03. DB와 SQL 프로그래밍
+### 03. DB와 SQL 프로그래밍(DB and SQL programming)
 * 01 데이터베이스 시스템 개요
 * 02 SQL 언어
 * 03 SQL 추가기능
@@ -33,7 +33,7 @@
 * 06 Python에서 DB 프로그래밍
 * 07 Python에서 DB 프로그래밍(계속)
 
-### 04. 데이터 분석 및 시각화
+### 04. 데이터 분석 및 시각화(Data analysis and visualization)
 * 01 NumPy - 데이터 과학 핵심 도구
 * 02 Pandas - 데이터 과학의 핵심 패키지
 * 03 Matplotlib - 데이터 과학 시각화 라이브러리
