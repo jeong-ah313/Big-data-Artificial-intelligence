@@ -3,6 +3,7 @@
 ![image](https://user-images.githubusercontent.com/72932028/149349702-eac8e2b0-e147-4c59-99ab-90c514c88546.png)
 
 
+# What I learned?
 ### 01.데이터 과학(Data science)
 ##### 실습활동 대신 퀴즈풀기로 활동을 대하여, 실습자료 없음
 * 01 데이터 정의
